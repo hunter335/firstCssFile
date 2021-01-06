@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+.top{
+    background-color: #cdfffc; 
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+h1{
+    font-size: 5rem;
+    margin: 50px auto 0 auto;  
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+   
+}
+h2{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-weight: bolder;
+    font-size: 2.5erm;
+}
+
+a{color: #11999E;}
+.bottom-cloud{
+    position: absolute;
+    left: 460px;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 460px;
+    top: 50px;
+   
+}
+  
+
+.myphoto{height: 180px; width: 180px;}
+.skills-photo{height: 25%; width: 25%; float: left; margin-right: 30px; }
+.chessphoto{height: 25%; width: 25%; float:right; margin-left: 30px;  }
+.skills-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+hr{
+    width: 6%;
+    border-style: dotted;
+    border-width: 7px;
+    border-top: 0px;
+    border-color:  #EAF6F6 ;
+    }
+    .bottom-container{
+        background-color: #66BFBF ;
+        padding-block: 30px;
+        margin-top: 15px;
+
+        
+        
+    }
+    .endline{
+        margin: 0;
+        color: #EAF6F6 ;
+    }
+    .btn {
+        
+        border-radius: 16px;
+        color: #FFFFFF;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1rem;
+        font-weight: bold;
+        padding: 5px;
+        background-color: #66BFBF;
+        text-decoration: none;
+        cursor: pointer;
+        text-align: center;
+     }
+     
+     .btn:hover {
+        background: grey;
+        border: solid #EDF1F6 1px;
+        border-radius: 20px;
+        text-decoration: none;
+     }
+     .socials{
+        padding-block: 30px;
+     }
+     .fb{
+         color: #11999E;
+         margin: 20px;
+         font-family: 'Montserrat', sans-serif;
+         font-weight: bold;
+         font-size: 2rem;
+         text-decoration: none;
+
+     }
+     
+     
+     .tw{
+        color: #11999E;
+        margin: 20px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        font-size: 2rem;
+        text-decoration: none;
+
+     }
+     .insta{
+        color: #11999E;
+        margin: 20px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        font-size: 2rem;
+        text-decoration: none;
+
+     }
